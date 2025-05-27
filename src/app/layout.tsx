@@ -19,6 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={cn(caveat.variable, kalam.variable, poppins.variable)}>
+      <head><link rel="icon" type="image/png" href="/favicon.png" /></head>
       <body className="antialiased font-handwriting-body">
         <MusicToggleButton />
         {/* Removed MusicHintArrow component here */}

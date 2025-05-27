@@ -8,7 +8,7 @@ import { MusicToggleButton } from '@/components/MusicToggleButton';
 // Removed MusicHintArrow import
 
 export const metadata: Metadata = {
-  title: 'Scrapbook of Us',
+  title: 'E-invite',
   description: 'A special e-invitation, made with love.',
 };
 
